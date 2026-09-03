@@ -12,7 +12,7 @@ A **CodeLab** é uma comunidade com desafios de desenvolvimento front-end, criad
 
 ### 📸 Preview do Projeto  
 
-![desafio-jordan-shoes_vercel](https://github.com/user-attachments/assets/f5edcfb1-34cd-43d5-94de-a7d7fd4f9778)
+<img width="1536" height="1539" alt="jordan-shoes-codelab-mu_vercel" src="https://github.com/user-attachments/assets/3ee06e83-bb18-40fc-b4af-dc4397882653" />
 
 
 ---
